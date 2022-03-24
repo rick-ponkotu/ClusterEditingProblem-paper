@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{はじめに}{}% 1
+\BOOKMARK [1][-]{section.2}{問題設定}{}% 2
+\BOOKMARK [1][-]{section.3}{禁止操作縮約操作}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{禁止操作}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{縮約操作}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{アルゴリズム}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{分枝限定アルゴリズム}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{上界計算}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.3}{正ペアuvの選択}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.4}{LPの解に応じて再帰中の禁止と縮約の順番を変える}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{実験}{}% 11
+\BOOKMARK [1][-]{section.6}{結論}{}% 12
